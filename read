@@ -1,0 +1,27 @@
+        What is a REST API?
+
+API:
+    -Application Programming Interface
+REST:
+    -REpresentational State Transfer
+
+                REST
+Respresentational State Transfer
+
+    Architectual style of the web
+    A standard/set of guidelines by which we can structure & create API's
+    REST API's have identifiable properties...
+
+            REST Properties
+    They Make use of HTTP Methods
+    -GET -Used to retrieve data from the server
+    -POST -Used to send data to the server
+    -PUT -Used to update data
+    -DELETE -Used to delete data
+
+    They Make use of HTTP Status Codes
+    Examples:
+        200 means OK
+        404 means resource not found
+        500 means server error
+
