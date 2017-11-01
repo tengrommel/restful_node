@@ -25,3 +25,9 @@ Respresentational State Transfer
         404 means resource not found
         500 means server error
 
+            HTTP Methods & API Routes
+    A way of telling the server what type of request we are making...
+        GET
+        POST
+        PUT
+        DELETE
