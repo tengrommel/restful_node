@@ -16,7 +16,7 @@ app.use('/api', require('./routes/api'))
 // error handling middleware
 app.use(function (err, req, res, next) {
     // console.log(err)
-    res.send({error: err.message})
+    res.status(422).send({error: err.message})
 })
 
 // listen for requests
